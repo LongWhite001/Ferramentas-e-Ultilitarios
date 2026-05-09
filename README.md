@@ -18,5 +18,5 @@ Correção de Dados: Ajustar erros em lançamentos, como a troca de uma CST inv�
 05 - Quebrar Senha de Arquivos ZIP 7z rar: Arquivo de BRUTE-FORCE em Script Powershell simples para quebrar ou Revelar senhas de Arquivos .zip .rar .7z. 
 Ele usa uma wordlist, sinta-se a vontade para personalizar a wordlist do seu gosto e modo.
 
-06 - Robust Copy File Script e Aplicativo: Aplicativo de Copia Robusta de Arquivos do Windows 10 e Windows 11. ele permite selecionar apenas a pasta que deseja copiar.
+06 - Robust Copy File Script e Aplicativo: Aplicativo de Copia Robusta de Arquivos do Windows 10 e Windows 11. ele permite selecionar apenas a pasta com arquivos que deseja copiar.
 
