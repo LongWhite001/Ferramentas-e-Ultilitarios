@@ -1,0 +1,5 @@
+Arraste a Imagem para o exiftool(-k).exe, ele abrirá uma janela
+(CMD) com os dados Metadados da Imagem.
+
+
+
