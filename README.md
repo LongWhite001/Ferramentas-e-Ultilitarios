@@ -13,3 +13,4 @@ Correção de Dados: Ajustar erros em lançamentos, como a troca de uma CST inv�
 
 03 - Corrigir Visualizção de PDF no Visualizar do Windows: Varios Scripts para Corrigir o Painel de visualização do windows assim permitindo visualizar PDfs novamente, caso o windows os Bloqueie por Updates Problematicas, ou por erro de Segurança o Windows Defender.
 
+04 - ExifTool Coleta de Dados e Metadados de Imagem: Este Aplicativo Permite Extair Informações de Imagens como Localização, qual celular foi tirada a foto e muitas outras informações. Possui Uma versão Completa com mais recursos, e uma versão mais simples.
