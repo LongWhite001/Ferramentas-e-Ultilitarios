@@ -10,3 +10,6 @@ Correção de Dados: Ajustar erros em lançamentos, como a troca de uma CST inv�
  uma melhor experiencia com o Windows, e que ele funcione com sua melhor performace.
  DISPONIVEL DO WINDOWS 7 A 11.
 (O do Windows 11 Não é o mesmo, para windows 11 ou posteriores baixe o do Windows 11.)
+
+03 - Corrigir Visualizção de PDF no Visualizar do Windows: Varios Scripts para Corrigir o Painel de visualização do windows assim permitindo visualizar PDfs novamente, caso o windows os Bloqueie por Updates Problematicas, ou por erro de Segurança o Windows Defender.
+
