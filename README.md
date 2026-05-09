@@ -20,3 +20,6 @@ Ele usa uma wordlist, sinta-se a vontade para personalizar a wordlist do seu gos
 
 06 - Robust Copy File Script e Aplicativo: Aplicativo de Copia Robusta de Arquivos do Windows 10 e Windows 11. ele permite selecionar apenas a pasta com arquivos que deseja copiar.
 
+07 - Esteganografia: Esteganografia em informática é a arte e ciência de esconder informações dentro de outros arquivos (imagens, áudios, vídeos, texto) sem alterar sua aparência normal. Diferente da criptografia, que torna a mensagem ilegível, a esteganografia oculta a própria existência da informação. É usada para comunicações secretas, marcas d'água digitais e, por vezes, fins maliciosos.
+Este Aplicativo Permite apenas usar imagens para esconder arquivos dentro da imagem.
+
