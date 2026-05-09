@@ -23,3 +23,8 @@ Ele usa uma wordlist, sinta-se a vontade para personalizar a wordlist do seu gos
 07 - Esteganografia: Esteganografia em informática é a arte e ciência de esconder informações dentro de outros arquivos (imagens, áudios, vídeos, texto) sem alterar sua aparência normal. Diferente da criptografia, que torna a mensagem ilegível, a esteganografia oculta a própria existência da informação. É usada para comunicações secretas, marcas d'água digitais e, por vezes, fins maliciosos.
 Este Aplicativo Permite apenas usar imagens para esconder arquivos dentro da imagem.
 
+08 - Dragon-White Toolkit: Kit de Ferramentas para Otimização do Windows 10 e Windows 11.
+
+09 - Backup-Usuario: Script de Backup de dados de usuario para Windows.
+
+
